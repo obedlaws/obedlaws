@@ -8,7 +8,7 @@ wish me luch or something... idk... lol
 <h4> TLDR... idk how </h4>
 - 👋 Hi, I’m @obedlaws
 - 👀 I’m interested in blockchain and data science
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity, Computer Science (Codeacademy.com) and Python
 - 📫 How to reach me? obedlaws@outlook.com
 
 LIFE-UPDATE
