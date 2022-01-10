@@ -3,7 +3,7 @@ My name is Obed Laws and im looking to become a blockchain developer or data eng
 Moving from making short films and been a video editor, now I look to get into data science, blockchain and defi or dApps.
 I kind of under undestand Solidity and Python. Right now im just doing small projects to learn and become better every day.
 My journey started in september 2021 so I know I have a lot of road to travel to become a really good developer in any field so 
-wish me luch or something... idk...
+wish me luck or something... idk...
 
 <h4> TLDR... idk how </h4>
 - 👋 Hi, I’m @obedlaws
